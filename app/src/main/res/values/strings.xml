@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Adroid Networking using Retrofit</string>
+    <string name="searchByPostId">Search By Id</string>
+    <string name="postUserId">Post User Id</string>
+    <string name="postId">Post Id</string>
+    <string name="postTitle">Post Title</string>
+    <string name="postBody">Post Body</string>
+    <string name="addButton">Add</string>
+    <string name="updateButton">Update</string>
+    <string name="deleteButton">Delete</string>
+    <string name="httpStatusMessage">Http Status Message</string>
+</resources>
